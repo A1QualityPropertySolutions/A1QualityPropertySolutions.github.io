@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: High Quality Property Solutions!
+    title: Professional, Honest, and A1 Quality
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
