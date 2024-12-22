@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Carlos Bermudez"
         role: "CFO"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/carlos_b.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -120,7 +120,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Marina Ramos"
         role: "Secretary"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/marina_r.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
