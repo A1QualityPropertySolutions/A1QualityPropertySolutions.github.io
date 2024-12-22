@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: High Quality Property Solutions!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "Recent Projects"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
@@ -98,8 +98,8 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Marlon Valdez"
+        role: "CEO"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "A1qualitypropertysolutions@gmail.com or call 404-731-1026"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
