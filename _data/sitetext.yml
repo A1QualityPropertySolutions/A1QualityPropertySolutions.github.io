@@ -108,8 +108,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Carlos Bermudez"
+        role: "CFO"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -118,8 +118,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Marina Ramos"
+        role: "Secretary"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
